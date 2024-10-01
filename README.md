@@ -1,1 +1,1 @@
-NEEDS CREATED and EDITED
+This python program will assist in automating HSA receipt tracking tasks. It interacts with the website trackhsa.com to enter and track medical receipts. The program will enter receipts that are put into a folder, allow the user to enter receipts without a receipt and to go back to upload receipts at a later date for transactions without receipts. 
